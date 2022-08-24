@@ -1,3 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11002</md:content-id>  <md:title>Grade 6 Mathematics Support Group</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>f2aeaa1b-ac8f-4c0c-a732-1c1253e67043</md:uuid>
-<md:slug>grade-6-mathematics-support-group</md:slug>
-</metadata>  <col:content>          <col:module document="m20055"/>                            <col:module document="m20086"/>                            <col:module document="m20060"/>                            <col:module document="m20078"/>                            <col:module document="m20052"/>                            <col:module document="m20089"/>                            <col:module document="m20084"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="William Page">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11002</md:content-id>
+    <md:title>Grade 6 Mathematics Support Group</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>f2aeaa1b-ac8f-4c0c-a732-1c1253e67043</md:uuid>
+    <md:slug>grade-6-mathematics-support-group</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m20055"/>
+    <col:module document="m20086"/>
+    <col:module document="m20060"/>
+    <col:module document="m20078"/>
+    <col:module document="m20052"/>
+    <col:module document="m20089"/>
+    <col:module document="m20084"/>
+  </col:content>
+</col:collection>
